@@ -1,14 +1,19 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<h1 align="center">Hi 👋, I'm Saif Ullah</h1>
+<h3 align="center">Full Stack Developer || Competitive Programmer</h3>
+
+<br >
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subha-822" alt="subha-822" /></a> </p>
+<br >
 
 - 🔭 I’m currently working on  __
 
 - 🌱 I’m currently learning **Full Stack Development, Software Engineering**
 
-- 💬 Ask me about **Python, HTML, CSS,..**
+- 💬 Ask me about **PHP, Java, NodeJS**
 
-- 📫 How to reach me **subhagopal333@gmail.com**
+- 📫 How to reach me **mrsaifullah52@gmail.com**
 
-- ⚡ Fun fact **I am doing Bachelors of Computer Application**
+- ⚡ Fun fact **__**
 
 
 <br >
