@@ -1,16 +1,59 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> 2nd task of html</title>
+        <style>
+          .header{
+              color: palevioletred;
+              padding: 30px;
+              text-align: center;
+          }
 
-<!--
-**mrsaifullah52/mrsaifullah52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+          .section{
+              padding: 120px;
+              color:darkgreen;
+              background-color: lightgray;
+              font-family: Arial, Helvetica, sans-serif;
+              text-align: center;
+              font-size: 150%;
+          }
 
-Here are some ideas to get you started:
+          .footer{
+              padding: 40px;
+              text-align: center;
+              color:palevioletred;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          }
+
+          .body{
+              background-image: url('1517724_a21d1.gif');
+              
+             background-repeat: no-repeat;
+             
+             
+             background-size: cover;
+
+             
+          }
+        </style>
+    </head>
+    <body class="body">
+
+
+        <div class="header">
+        
+        <h1>My first website</h1>
+   
+        </Div>
+        
+        <div class="section">
+            <pre>
+            My name is Saif Ullah. I'm Full Stack developer.
+            </pre>
+        </div>
+        <div class="footer">
+            <caption> Copyright @ | All Rights Resarved 2021</caption>
+        </div>
+    </body>
+</html>
+
