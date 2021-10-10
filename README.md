@@ -19,7 +19,7 @@
 <br >
 <h3 align="left">Connect with me:</h3>
 <br >
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
 <br >
 <h3 align="left">Languages and Tools:</h3>
