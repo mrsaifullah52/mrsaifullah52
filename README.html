@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subha Rajagopal</h1>
-<h3 align="center">|| Graphic Designer || Full Stack Developer || Competitive Programmer || Data Entry Specialist ||</h3>
-
-<br >
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subha-822" alt="subha-822" /></a> </p>
-<br >
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 - 🔭 I’m currently working on  __
 
