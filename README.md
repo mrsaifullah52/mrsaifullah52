@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saif Ullah</h1>
+<h1 align="center">Hi 👋, I'm Saif Ullah <img src="https://visitor-badge.deta.dev/badge?page_id=mrsaifullah52.visitor-badge" alt="mrsaifullah52" /></h1>
 <h3 align="center">Full Stack Developer || Competitive Programmer</h3>
 
 <br >
@@ -66,7 +66,7 @@
 </p>
 
 <br >
-<p align="left"> <img src="https://visitor-badge.deta.dev/badge?page_id=mrsaifullah52.visitor-badge" alt="mrsaifullah52" /> </p>
+<p align="left">  </p>
 <br >
 
 
