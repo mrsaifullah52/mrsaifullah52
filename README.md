@@ -19,17 +19,7 @@
 <br >
 <h3 align="left">Connect with me:</h3>
 <br >
-<p align="left">
-<a href="https://twitter.com/subharajagopal8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subharajagopal8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subha-rajagopal-9109b7202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subha-rajagopal-9109b7202/" height="30" width="40" /></a>
-<a href="https://www.behance.net/subharajagopal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="subharajagopal" height="30" width="40" /></a>
-<a href="https://medium.com/@subhagopal333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@subhagopal333" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/subha822" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="subha822" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@subhagopal333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@subhagopal333" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/subhagopal333" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="subhagopal333" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/subhagopal333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhagopal333" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/subharajagopal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="subharajagopal" height="30" width="40" /></a>
-</p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <br >
 <h3 align="left">Languages and Tools:</h3>
