@@ -12,9 +12,9 @@
 <br >
 
 
-- 🔭 I’m currently working on **Android Projects**
+- 🔭 I’m currently working on **Solana Blockchain**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Bockchain**
 
 - 👯 I’m looking to collaborate on **Android Applications**
 
