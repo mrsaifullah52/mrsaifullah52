@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Solana Blockchain**
 
-- 🌱 I’m currently learning **Bockchain**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on **Android Applications**
 
