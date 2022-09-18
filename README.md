@@ -3,14 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-<br >
-<p align="left"> 
-  <a href="https://github-profile-trophy.vercel.app/?username=mrsaifullah52&theme=gruvbox">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrsaifullah52" alt="mrsaifullah" />
-  </a> 
-</p>
-<br >
-
 
 - 🔭 I’m currently working on **Solana Blockchain**
 
