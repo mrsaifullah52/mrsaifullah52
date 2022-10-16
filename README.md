@@ -33,4 +33,4 @@
 </div>
 
 <h2>Achiement Badges</h2>
-<img src="./holopin.jpg" alt="saifudev"/>
+<img src="https://holopin.me/saifudev" alt="saifudev"/>
