@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **Solana Blockchain**
-
 - 👯 I’m looking to collaborate on **Android Applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrsaifullah52](https://github.com/mrsaifullah52)
