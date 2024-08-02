@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saif Ullah <img src="https://visitor-badge.deta.dev/badge?page_id=mrsaifullah52.visitor-badge" alt="mrsaifullah52" /></h1>
+<h1 align="center">Hi 👋, I'm Saif Ullah</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer&font=Fira%20Code&center=true&width=380&height=50">
 </p>
